@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: ai-shared-utilities
+Version: 0.1.0
+Summary: Shared utilities for AI lab repos
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+
+# ai_shared_utilities
+
+Shared Python utilities and helper scripts for repos under `~/src`.
+
+This repo will absorb the old `ai_shared_data` functionality and also provide
+workspace maintenance scripts such as updating `ai_lab.code-workspace`.

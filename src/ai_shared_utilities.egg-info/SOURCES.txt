@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/ai_shared_utilities/__init__.py
+src/ai_shared_utilities/assets.py
+src/ai_shared_utilities/workspace.py
+src/ai_shared_utilities.egg-info/PKG-INFO
+src/ai_shared_utilities.egg-info/SOURCES.txt
+src/ai_shared_utilities.egg-info/dependency_links.txt
+src/ai_shared_utilities.egg-info/top_level.txt
