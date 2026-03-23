@@ -10,6 +10,7 @@ from .fetch import (
     get_asset,
     get_asset_path,
 )
+from .models import save_registered_model
 from .registry import ASSETS, REGISTRY
 
 __all__ = [
