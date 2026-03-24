@@ -18,7 +18,7 @@ INCLUDED_REPOS = [
     "deep_learning_with_python",
     "ARENA_3.0",
     "build_a_llm_from_scratch",
-    "ai_shared_data",
+    "ai_shared_utilities"
 ]
 
 def is_repo_dir(path: Path) -> bool:
