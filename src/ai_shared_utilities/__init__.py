@@ -12,6 +12,7 @@ from .fetch import (
 )
 from .models import save_registered_model
 from .registry import ASSETS, REGISTRY
+from .tracking import log_experiment
 
 __all__ = [
     "get_data_home",
@@ -25,4 +26,5 @@ __all__ = [
     "ASSETS",
     "REGISTRY",
     "save_registered_model",
+    "log_experiment",
 ]

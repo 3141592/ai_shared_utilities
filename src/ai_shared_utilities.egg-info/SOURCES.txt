@@ -2,6 +2,11 @@ README.md
 pyproject.toml
 src/ai_shared_utilities/__init__.py
 src/ai_shared_utilities/assets.py
+src/ai_shared_utilities/builders.py
+src/ai_shared_utilities/fetch.py
+src/ai_shared_utilities/models.py
+src/ai_shared_utilities/registry.py
+src/ai_shared_utilities/tracking.py
 src/ai_shared_utilities/workspace.py
 src/ai_shared_utilities.egg-info/PKG-INFO
 src/ai_shared_utilities.egg-info/SOURCES.txt
